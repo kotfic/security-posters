@@ -1,16 +1,16 @@
 # Security Posters
-A few Newtork and Software Security related Propaganda Posters
+A few Crypto and Software Security related posters derived from classic WWI Propaganda Posters
 
 
-![Someone Rolled Their Own Crypto](jpg/crypto.jpg)
+![Someone Rolled Their Own Crypto](low_res/crypto.jpg)
 
-![Defend Software Supply Chains](jpg/defend.jpg)
+![Defend Software Supply Chains](low_res/defend.jpg)
 
-![Loose Lips Might Sink FIPS](jpg/Loose_lips.jpg)
+![Loose Lips Might Sink FIPS](low_res/Loose_lips.jpg)
 
 # A Note on Use
 
-In the case of `crypto` and `loose_lips` posters these are derived works of public domain posts. In the case of `defend` this is a derived work with the permission of the National Association of Manufacturers. 
+In the case of `crypto` and `loose_lips` posters these are derived works of public domain posters. In the case of `defend` this is a derived work with the permission of the National Association of Manufacturers. 
  
 All works are licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -18,6 +18,7 @@ All works are licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/
 ## You are free to:
 
 *Share* — copy and redistribute the material in any medium or format
+
 *Adapt* — remix, transform, and build upon the material
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
