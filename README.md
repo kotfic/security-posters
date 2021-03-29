@@ -2,11 +2,11 @@
 A few Newtork and Software Security related Propaganda Posters
 
 
-[jpg/crypto.jpg|Someone Rolled Their Own Crypto]
+[[jpg/crypto.jpg|Someone Rolled Their Own Crypto]]
 
-[jpg/defend.jpg|Defend Software Software Supply Chains]
+[[jpg/defend.jpg|Defend Software Software Supply Chains]]
 
-[jg/Loose_lips.jpg|Loose Lips Might Sink FIPS]
+[[jg/Loose_lips.jpg|Loose Lips Might Sink FIPS]]
 
 # A Note on Use
 
