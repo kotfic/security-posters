@@ -1,5 +1,5 @@
 # Security Posters
-A few Newtork and Software Security related Propaganda Posters
+A few Network and Software Security related Propaganda Posters
 
 
 ![Someone Rolled Their Own Crypto](jpg/crypto.jpg)
