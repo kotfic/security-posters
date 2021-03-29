@@ -6,7 +6,7 @@ A few Newtork and Software Security related Propaganda Posters
 
 ![Defend Software Supply Chains](jpg/defend.jpg)
 
-![Loose Lips Might Sink FIPS](jg/Loose_lips.jpg)
+![Loose Lips Might Sink FIPS](jpg/Loose_lips.jpg)
 
 # A Note on Use
 
